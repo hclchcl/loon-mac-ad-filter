@@ -1,3 +1,5 @@
+<img src="icon.png" width="88" height="88" alt="应用与网页过滤图标">
+
 # Mac 应用与网页广告过滤器
 
 按专用广告域名和已列出的广告路径处理常见应用及网页中的广告请求。
@@ -64,3 +66,9 @@ https://raw.githubusercontent.com/hclchcl/loon-mac-ad-filter/main/Loon-Mac-Ad-Fi
 - [Mac HTTPDNS 拦截器](https://github.com/hclchcl/loon-mac-httpdns-block)
 - [Mac 广告平台拦截器](https://github.com/hclchcl/loon-mac-ad-platforms-block)
 - [Mac DNS 防泄漏](https://github.com/hclchcl/loon-mac-dns-guard)
+
+## 名称与图标
+
+插件文件已内置 `#!name` 和 `#!icon`。请使用插件原始直链导入；名称与图标由 Loon 读取文件头信息。已导入的插件可先更新；本地自定义名称或图标可能继续保留，需要时在导入界面使用默认信息。
+
+图标为本项目原创，提供 [PNG](icon.png) 和可编辑 [SVG](icon.svg)。本次只更新展示信息与图标资源，未进行 Loon 导入或联网测试。

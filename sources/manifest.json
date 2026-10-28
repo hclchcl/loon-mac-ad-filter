@@ -1,5 +1,5 @@
 {
-  "release": "1.0.0",
+  "release": "1.0.1",
   "date": "2026-10-28",
   "target": "Loon for Mac 0.5.0 (1009)",
   "runtime_tested": false,
@@ -32,8 +32,18 @@
   },
   "outputs": {
     "Loon-Mac-Ad-Filter.plugin": {
-      "sha256": "d2b7ba0b906cbdcb6a68e7cd08cc86affbc4f5f73690a8bd7495b282e576f579",
-      "bytes": 4473
+      "sha256": "08b03020ea251926380e25dab47694f319652fde1c0a805bcc91829531e42cdf",
+      "bytes": 4557
     }
+  },
+  "display_icon": {
+    "path": "icon.png",
+    "source": "icon.svg",
+    "size": [
+      256,
+      256
+    ],
+    "author": "hclchcl",
+    "date": "2026-10-28"
   }
 }
